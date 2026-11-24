@@ -22,3 +22,10 @@ A versão foi aquecida com tons de caramelo, terracota e areia, preservando o ve
 
 ## Carrossel de rituais
 A seção “Seu momento, seu ritual” usa cards com imagens em blur. No desktop, o hover revela a imagem; em telas touch, tocar no card o ativa. As imagens do carrossel usam fotografias e artes já incluídas em `assets/img/`; substitua os caminhos em `index.html` quando tiver fotos próprias de cada protocolo.
+
+
+## Versão de continuidade
+
+Esta versão preserva a estrutura, as páginas, as imagens reais e os componentes já desenvolvidos. A única alteração visual aplicada nesta entrega foi aumentar discretamente a logo no mobile para 145px; a altura do cabeçalho e o posicionamento foram mantidos. O tamanho da logo no desktop não foi alterado.
+
+Para testar, abra esta pasta no VS Code e execute `index.html` com o Live Server.
